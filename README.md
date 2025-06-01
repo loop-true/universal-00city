@@ -21,4 +21,4 @@ function cj (){
 }
 ```
 
-> 🫏: **Warning:** Do not push the big red button.
+> 🚀: **Warning:** Do not push the big red button.
