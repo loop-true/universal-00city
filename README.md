@@ -1,4 +1,4 @@
-# 🚀: sajad project
+#🚀sajad project
 
 lorem ipsum underline lorem ipsum underlinelorem ipsum underlinev lorem ipsum underline lorem ipsum underline lorem ipsum underline lorem ipsum underline lorem ipsum underline lorem ipsum underline lorem ipsum underline lorem ipsum underline lorem ipsum underline
 
@@ -20,4 +20,4 @@ function cj (){
 }
 ```
 
-> 🚀: **Warning:** Do not push the big red button.
+> :: **Warning:** Do not push the big red button.
