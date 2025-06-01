@@ -20,4 +20,4 @@ function cj (){
 }
 ```
 
-> :warning: **Warning:** Do not push the big red button.
+> :iran: **Warning:** Do not push the big red button.
