@@ -14,4 +14,11 @@ click [here](https://loop-true.github.io/universal-00city/) to see my project
 
 ![cj picture](./1600w-We2UMFsSgLA.webp)
 
-I need to highlight these ==very important word==.
+---
+``` js
+function cj (){
+    console.log('hello cj')
+}
+```
+
+> :warning: **Warning:** Do not push the big red button.
