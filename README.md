@@ -20,4 +20,4 @@ function cj (){
 }
 ```
 
-> 🇮🇷: **Warning:** Do not push the big red button.
+> :warning: **Warning:** Do not push the big red button.
